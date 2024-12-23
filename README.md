@@ -9,7 +9,7 @@ A React-based application to display a list of hotels with detailed information.
 
 . Clone the repository:  git clone https://github.com/Meethujose09/hotel_management.gi
 
-Navigate to the project directory:  cd hotel-listing-app
+Navigate to the project directory:  cd sunway_hotel
 
 
 Install dependencies:  npm install
